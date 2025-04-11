@@ -30,9 +30,22 @@
 
 <h2>📁 Projects</h2>
 
-[Escape Room Challenge](https://github.com/AshSta512/escape-room-challenge) - 3D Escape Room Game. Made using the Godot Game Engine as a team of 4 people.
+### [Escape Room Challenge](https://github.com/AshSta512/escape-room-challenge) - 3D Escape Room Game. Made using the Godot Game Engine as a team of 4 people.
 
-[Encrypter](https://github.com/AshSta512/Encrypter) - Standalone Java Application
+The repository is currently private due to being still in-progress.
+
+Here are some screenshots of UI design I did for the game:
+
+<h4>Item Hotbar UI</h4>
+<img alt="Item Hotbar UI" height="720" width="1280" src="https://github.com/user-attachments/assets/1fbb46c8-506c-4423-b5aa-b6e4f9631812" />
+
+<h4>Pause Menu</h4>
+<img alt="Pause Menu" height="720" width="1280" src="https://github.com/user-attachments/assets/33581940-e16a-49d0-8abe-0485a3d4d17a" />
+
+<h4>Main Menu</h4>
+<img alt="Main Menu" height="720" width="1280" src="https://github.com/user-attachments/assets/a288cb63-9862-4bca-b1dc-68260038a2a4" />
+
+### [Encrypter](https://github.com/AshSta512/Encrypter) - Standalone Java Application for encrypting/decrypting messages.
 
 More to come!
 
